@@ -1,10 +1,31 @@
- body {
-    background-color:bisque:
- }
-  main {
-    background-color: blue;
-  }
-    
 
- 
-    
+:root{
+  
+  
+
+}
+
+body {
+  background-color: rgb(224, 146, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: center;
+  height: 700px;
+  
+
+}
+
+main {
+  background-color: rgb(120, 190, 255);
+  width: 35%;
+  height: 35%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.btn input {
+  padding: 10.px; 
+
+}
